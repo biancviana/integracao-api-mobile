@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Serviços</string>
+    <string name="informacoes">Informações</string>
+    <string name="buscar">Buscar</string>
+    <string name="digite_o_cep">Digite o CEP para buscar o endereço</string>
+    <string name="titulo">O que deseja fazer?</string>
+    <string name="busca_por_cep">Buscar por CEP</string>
+    <string name="busca_por_feriados">Buscar por feriados</string>
+    <string name="titulo_feriado">Digite o ano para consultar os feriados</string>
+    <string name="voltar">Voltar</string>
+</resources>
